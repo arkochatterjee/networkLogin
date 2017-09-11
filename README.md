@@ -4,6 +4,6 @@ The scripts depend upon the OS you use.
 Feel free to fork and use.
 <p>
 <b>Steps to use</b>
-1. Download the chrome webdriver and install it.
+1. Download the chrome webdriver and install it.</br>
 2. Execute the code in the repository. And, bam, it's done.
 </p>
