@@ -3,7 +3,7 @@ This is a python script which helps the students of SRM University to login to t
 The scripts depend upon the OS you use.
 Feel free to fork and use.
 <p>
-<b>Steps to use</b>
+<b>Steps to use</b></br>
 1. Download the chrome webdriver and install it.</br>
 2. Execute the code in the repository. And, bam, it's done.
 </p>
