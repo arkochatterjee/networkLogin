@@ -5,5 +5,5 @@ Feel free to fork and use.
 <p>
 <b>Steps to use</b></br>
 1. Download the chrome webdriver and install it.</br>
-2. Execute the code in the repository. And, bam, it's done.
-</p>
+2. Clone the repository.
+3. Execute the code.</p>
